@@ -1,0 +1,19 @@
+{
+  "name": "com.alexd.multistate",
+  "version": "1.0.0",
+  "displayName": "MultiState",
+  "description": "A statemachine package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "multistate",
+    "state",
+    "fsm"
+  ],
+  "author": {
+    "name": "Alex Davies",
+    "email": "alexdavies8888@gmail.com",
+    "url": "https://github.com/AlexDavies8"
+  },
+  "type": "tool"
+}
